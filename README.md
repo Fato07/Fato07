@@ -11,6 +11,34 @@ I design & ship **specialized AI agents** that solve real business problems — 
 
 </div>
 
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Fato07&show_icons=true&theme=dark&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Fato07&layout=compact&theme=dark&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Fato07&theme=dark&hide_border=true)
+
+</div>
+
+----
+<div>
+  
+### Languages & Frameworks
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+
+### AI & Cloud
+![Vertex AI](https://img.shields.io/badge/Vertex_AI-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+</div>
+
 ---
 
 ## TL;DR
@@ -81,3 +109,22 @@ Posting builder’s POV on **vertical AI**, safety, and architecture.
 DM me on **X** or **LinkedIn**. For project briefs: [hello@codesdevs.io](mailto:hello@codesdevs.io) (or contact via website).
 
 ---
+
+## 📊 Contribution Activity
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Fato07&theme=react-dark&hide_border=true)
+
+---
+
+<div align="center">
+  
+### Thanks for visiting! 👋
+  
+![](https://komarev.com/ghpvc/?username=Fato07&color=blue&style=flat-square&label=Profile+Views)
+
+</div>
+
+----
+## 💭 Philosophy
+
+> "Ship thin verticals that solve real problems. Measure everything. Iterate relentlessly."
