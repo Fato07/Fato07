@@ -104,6 +104,15 @@ Posting builder’s POV on **vertical AI**, safety, and architecture.
 
 ---
 
+## 🌱 Currently Exploring
+
+- 🔬 Advanced RAG patterns for production AI systems
+- 🛡️ Red-teaming strategies for LLM applications
+- ⚡ Edge deployment of voice agents
+- 🏗️ Multi-agent orchestration with Temporal
+
+---
+
 ## Work with me
 
 DM me on **X** or **LinkedIn**. For project briefs: [hello@codesdevs.io](mailto:hello@codesdevs.io) (or contact via website).
