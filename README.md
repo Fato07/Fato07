@@ -2,8 +2,8 @@
 
 # Fathin Dosunmu
 
-**Founder @ CodesDevs — Vertical AI Agents • Full‑Stack (Next.js/TS) • Security‑first**
-I design & ship **specialized AI agents** that solve real business problems — with reliability, telemetry, and guardrails.
+**Founder @ CodesDevs: Vertical AI Agents • Full‑Stack (Next.js/TS) • Security‑first**
+I design & ship **specialised AI agents** that solve real business problems — with reliability, telemetry, and guardrails.
 
 [![Website](https://img.shields.io/badge/codesdevs.io-000?logo=vercel)](https://www.codesdevs.io/)
 [![X](https://img.shields.io/badge/@FathinDev-000?logo=x)](https://x.com/FathinDev)
