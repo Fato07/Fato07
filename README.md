@@ -95,15 +95,6 @@ I design & ship **specialised AI agents** that solve real business problems — 
 
 ---
 
-## Writing & diagrams
-
-Posting builder’s POV on **vertical AI**, safety, and architecture.
-- Threads → **[X](https://x.com/FathinDev)**
-- Long‑form & diagrams  → **[LinkedIn](https://www.linkedin.com/in/fathindos/)**
-- Case studies → **[codesdevs.io](https://www.codesdevs.io/)**
-
----
-
 ## 🌱 Currently Exploring
 
 - 🔬 Advanced RAG patterns for production AI systems
