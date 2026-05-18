@@ -6,11 +6,19 @@ I build the unglamorous primitives that let AI agents do real work in the world 
 
 [![Website](https://img.shields.io/badge/codesdevs.io-000?logo=vercel)](https://www.codesdevs.io/)
 [![X](https://img.shields.io/badge/@FathinDev-000?logo=x)](https://x.com/FathinDev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-fathindos-0A66C2?logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/fathindos/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-fathindos-0A66C2?logo=linkedin\&logoColor=fff)](https://www.linkedin.com/in/fathindos/)
 
+</div>
+
+<div align="center">
+  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Fato07&show_icons=true&theme=dark&hide_border=true)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Fato07&layout=compact&theme=dark&hide_border=true)
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Fato07&theme=dark&hide_border=true)
+
+</div>
 ---
 
 ## TL;DR
