@@ -1,6 +1,6 @@
 # Fathin Dosunmu
 
-**Founder @ CodesDevs OÜ · Building agent infrastructure · Security-first**
+**Building agent infrastructure · Security-first**
 
 I build the unglamorous primitives that let AI agents do real work in the world — identity, verification, and the parts of the stack people skip until they break.
 
@@ -35,7 +35,7 @@ I build the unglamorous primitives that let AI agents do real work in the world 
 
 - **[AgentSIM](https://agentsim.dev)** — Real SIM-backed phone numbers as an identity layer for AI agents. SMS/OTP verification that actually works because the number is real. *Wrapping Twilio gives you a phone number; AgentSIM gives an agent a verified identity.*
 - **[BackToBirth.ai](https://backtobirth.ai)** — AI-powered aviation compliance verification for EASA Part-145 MROs. Dual-model certificate cross-referencing, benchmarked at 95.8% F1 on a 141-document set (AeroBench).
-- **ELAV** — GTM intelligence infrastructure for 15–50 person services companies where the CEO is the knowledge bottleneck. Built with [Roman](https://incmatica.com) @ Incmatica OÜ.
+- **[ELAV](https://www.elav.ai/)** — GTM intelligence infrastructure for 15–50 person services companies where the CEO is the knowledge bottleneck.
 - **Agent tooling & MCP** — Including [log-analyzer-mcp](https://github.com/Fato07/log-analyzer-mcp) (on PyPI) and a multi-agent orchestration setup wired through Telegram and Slack.
 
 > **Open to:** EU MRO pilots for AeroCert, AgentSIM design partners, and serious partnerships on agent infra.
@@ -80,7 +80,7 @@ DM on **X** [@FathinDev](https://x.com/FathinDev) or **LinkedIn**. Briefs: <hell
 
 ---
 
-## 📊 Contribution Activity
+## Contribution Activity
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Fato07&theme=react-dark&hide_border=true)
 
