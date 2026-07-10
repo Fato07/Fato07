@@ -1,24 +1,22 @@
 # Fathin Dosunmu
 
-**Entrepreneur . Building agent infrastructure · Security-first**
+**Entrepreneur · Building agent infrastructure · Security-first**
 
 I build the unglamorous primitives that let AI agents do real work in the world — identity, verification, and the parts of the stack people skip until they break.
 
-[![Website](https://img.shields.io/badge/codesdevs.io-000?logo=vercel)](https://www.codesdevs.io/)
-[![X](https://img.shields.io/badge/@FathinDev-000?logo=x)](https://x.com/FathinDev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-fathindos-0A66C2?logo=linkedin\&logoColor=fff)](https://www.linkedin.com/in/fathindos/)
-
-</div>
+[Website](https://www.codesdevs.io/) · [X](https://x.com/FathinDev) · [LinkedIn](https://www.linkedin.com/in/fathindos/)
 
 <div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Fato07&show_icons=true&theme=dark&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Fato07&layout=compact&theme=dark&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Fato07&theme=dark&hide_border=true)
+<a href="https://github.com/Fato07">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Fato07/Fato07/main/assets/profile-dark.svg">
+    <img alt="Fathin Dosunmu's profile control plane with an ASCII portrait and live GitHub statistics" src="https://raw.githubusercontent.com/Fato07/Fato07/main/assets/profile-light.svg">
+  </picture>
+</a>
 
 </div>
+
 ---
 
 ## TL;DR
@@ -75,12 +73,6 @@ I build the unglamorous primitives that let AI agents do real work in the world 
 ## Work with me
 
 DM on **X** [@FathinDev](https://x.com/FathinDev) or **LinkedIn**. Briefs: <hello@codesdevs.io>
-
----
-
-## Contribution Activity
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Fato07&theme=react-dark&hide_border=true)
 
 ---
 
