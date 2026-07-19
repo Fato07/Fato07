@@ -4,7 +4,7 @@
 
 I build the unglamorous primitives that let AI agents do real work in the world — identity, verification, and the parts of the stack people skip until they break.
 
-[Website](https://www.codesdevs.io/) · [X](https://x.com/FathinDev) · [LinkedIn](https://www.linkedin.com/in/fathindos/)
+[Website](https://fathin.ee/) · [Studio](https://www.codesdevs.io/) · [X](https://x.com/FathinDev) · [LinkedIn](https://www.linkedin.com/in/fathindos/)
 
 <div align="center">
 
